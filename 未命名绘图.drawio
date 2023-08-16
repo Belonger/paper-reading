@@ -1,123 +1,123 @@
-<mxfile host="app.diagrams.net" modified="2023-08-16T04:20:00.598Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203" etag="EMTP-W64VeoTthzut5n0" version="21.6.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-16T04:20:52.190Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.203" etag="mAnS6erna5Q9nJcEB8T0" version="21.6.7" type="github">
   <diagram name="第 1 页" id="0rreKv_2gLSAqNvojpKV">
     <mxGraphModel dx="992" dy="525" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="IA1lLXJWEuL8b0XCdz8R-1" value="居民消费降低" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IA1lLXJWEuL8b0XCdz8R-1" value="居民消费降低" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="300" y="430" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IA1lLXJWEuL8b0XCdz8R-2" value="出口减少" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IA1lLXJWEuL8b0XCdz8R-2" value="出口减少" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="300" y="490" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IA1lLXJWEuL8b0XCdz8R-3" value="贸易战" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IA1lLXJWEuL8b0XCdz8R-3" value="贸易战" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="100" y="490" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IA1lLXJWEuL8b0XCdz8R-4" value="房地产行业不景气" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IA1lLXJWEuL8b0XCdz8R-4" value="房地产行业不景气" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="300" y="555" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IA1lLXJWEuL8b0XCdz8R-5" value="AI在逐渐发力" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IA1lLXJWEuL8b0XCdz8R-5" value="AI在逐渐发力" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="300" y="610" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IA1lLXJWEuL8b0XCdz8R-8" value="企业业务减少" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IA1lLXJWEuL8b0XCdz8R-8" value="企业业务减少" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="500" y="500" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IA1lLXJWEuL8b0XCdz8R-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="IA1lLXJWEuL8b0XCdz8R-1" target="IA1lLXJWEuL8b0XCdz8R-8">
+        <mxCell id="IA1lLXJWEuL8b0XCdz8R-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="IA1lLXJWEuL8b0XCdz8R-1" target="IA1lLXJWEuL8b0XCdz8R-8" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="430" y="450" as="sourcePoint" />
             <mxPoint x="480" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IA1lLXJWEuL8b0XCdz8R-12" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="IA1lLXJWEuL8b0XCdz8R-2" target="IA1lLXJWEuL8b0XCdz8R-8">
+        <mxCell id="IA1lLXJWEuL8b0XCdz8R-12" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="IA1lLXJWEuL8b0XCdz8R-2" target="IA1lLXJWEuL8b0XCdz8R-8" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="430" y="510" as="sourcePoint" />
             <mxPoint x="480" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IA1lLXJWEuL8b0XCdz8R-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="IA1lLXJWEuL8b0XCdz8R-3" target="IA1lLXJWEuL8b0XCdz8R-2">
+        <mxCell id="IA1lLXJWEuL8b0XCdz8R-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="IA1lLXJWEuL8b0XCdz8R-3" target="IA1lLXJWEuL8b0XCdz8R-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="230" y="510" as="sourcePoint" />
             <mxPoint x="280" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IA1lLXJWEuL8b0XCdz8R-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="IA1lLXJWEuL8b0XCdz8R-4">
+        <mxCell id="IA1lLXJWEuL8b0XCdz8R-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="IA1lLXJWEuL8b0XCdz8R-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="450" y="560" as="sourcePoint" />
             <mxPoint x="500" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IA1lLXJWEuL8b0XCdz8R-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IA1lLXJWEuL8b0XCdz8R-16">
+        <mxCell id="IA1lLXJWEuL8b0XCdz8R-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="IA1lLXJWEuL8b0XCdz8R-16" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="830" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IA1lLXJWEuL8b0XCdz8R-16" value="企业降薪、裁员" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IA1lLXJWEuL8b0XCdz8R-16" value="企业降薪、裁员" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="680" y="500" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IA1lLXJWEuL8b0XCdz8R-18" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="IA1lLXJWEuL8b0XCdz8R-8" target="IA1lLXJWEuL8b0XCdz8R-16">
+        <mxCell id="IA1lLXJWEuL8b0XCdz8R-18" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="IA1lLXJWEuL8b0XCdz8R-8" target="IA1lLXJWEuL8b0XCdz8R-16" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="630" y="520" as="sourcePoint" />
             <mxPoint x="680" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IA1lLXJWEuL8b0XCdz8R-19" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="IA1lLXJWEuL8b0XCdz8R-16">
+        <mxCell id="IA1lLXJWEuL8b0XCdz8R-19" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" target="IA1lLXJWEuL8b0XCdz8R-16" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="430" y="624.5" as="sourcePoint" />
             <mxPoint x="480" y="624.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IA1lLXJWEuL8b0XCdz8R-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+        <mxCell id="IA1lLXJWEuL8b0XCdz8R-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="827" y="380" as="sourcePoint" />
             <mxPoint x="270" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IA1lLXJWEuL8b0XCdz8R-22" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="IA1lLXJWEuL8b0XCdz8R-1">
+        <mxCell id="IA1lLXJWEuL8b0XCdz8R-22" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="IA1lLXJWEuL8b0XCdz8R-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="270" y="380" as="sourcePoint" />
             <mxPoint x="270" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IA1lLXJWEuL8b0XCdz8R-23" value="城镇化即将结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="IA1lLXJWEuL8b0XCdz8R-23" value="城镇化即将结束" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="100" y="555" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IA1lLXJWEuL8b0XCdz8R-24" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+        <mxCell id="IA1lLXJWEuL8b0XCdz8R-24" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="230" y="570" as="sourcePoint" />
             <mxPoint x="300" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IA1lLXJWEuL8b0XCdz8R-25" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" target="IA1lLXJWEuL8b0XCdz8R-4">
+        <mxCell id="IA1lLXJWEuL8b0XCdz8R-25" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" target="IA1lLXJWEuL8b0XCdz8R-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="80" y="640" as="sourcePoint" />
             <mxPoint x="150" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IA1lLXJWEuL8b0XCdz8R-26" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="IA1lLXJWEuL8b0XCdz8R-26" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="80" y="450" as="sourcePoint" />
             <mxPoint x="80" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IA1lLXJWEuL8b0XCdz8R-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="IA1lLXJWEuL8b0XCdz8R-1">
+        <mxCell id="IA1lLXJWEuL8b0XCdz8R-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="IA1lLXJWEuL8b0XCdz8R-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="360" y="400" as="sourcePoint" />
             <mxPoint x="80" y="445" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IA1lLXJWEuL8b0XCdz8R-28" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="IA1lLXJWEuL8b0XCdz8R-28" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="80" y="840" as="sourcePoint" />
             <mxPoint x="80" y="720" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IA1lLXJWEuL8b0XCdz8R-29" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="IA1lLXJWEuL8b0XCdz8R-29" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="80" y="840" as="sourcePoint" />
             <mxPoint x="770" y="840" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IA1lLXJWEuL8b0XCdz8R-30" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="IA1lLXJWEuL8b0XCdz8R-30" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="110" y="830" as="sourcePoint" />
             <mxPoint x="600" y="800" as="targetPoint" />
@@ -126,25 +126,25 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="IA1lLXJWEuL8b0XCdz8R-31" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="IA1lLXJWEuL8b0XCdz8R-31" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="600" y="800" as="sourcePoint" />
             <mxPoint x="770" y="800" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IA1lLXJWEuL8b0XCdz8R-32" value="2023" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="IA1lLXJWEuL8b0XCdz8R-32" value="2023" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="530" y="840" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IA1lLXJWEuL8b0XCdz8R-33" value="2019" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="IA1lLXJWEuL8b0XCdz8R-33" value="2019" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="420" y="840" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IA1lLXJWEuL8b0XCdz8R-36" value="2000" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="IA1lLXJWEuL8b0XCdz8R-36" value="2000" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="90" y="840" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IA1lLXJWEuL8b0XCdz8R-37" value="2050" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="IA1lLXJWEuL8b0XCdz8R-37" value="2050" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="720" y="840" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IA1lLXJWEuL8b0XCdz8R-38" value="经济增长曲线" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="IA1lLXJWEuL8b0XCdz8R-38" value="经济增长曲线" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="20" y="710" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
